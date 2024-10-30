@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="avatar_color_1">#FF5722</color> <!-- Màu cam -->
+    <color name="avatar_color_2">#3F51B5</color> <!-- Màu xanh dương đậm -->
+    <color name="avatar_color_3">#009688</color> <!-- Màu xanh ngọc -->
+    <color name="avatar_color_4">#4CAF50</color> <!-- Màu xanh lá cây -->
+    <color name="avatar_color_5">#FFC107</color> <!-- Màu vàng -->
+
+</resources>

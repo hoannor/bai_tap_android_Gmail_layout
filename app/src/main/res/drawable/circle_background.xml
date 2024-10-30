@@ -1,0 +1,7 @@
+<!-- res/drawable/circle_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#81C7C9" />
+    <stroke android:width="2dp" android:color="#1E8385" />
+    <gradient android:startColor="#4DD0E1" android:endColor="#0097A7" android:angle="45" />
+    <corners android:radius="50dp" />
+</shape>
